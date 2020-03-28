@@ -1,0 +1,7 @@
+[gd_scene format=2]
+
+[node name="Map" type="Node"]
+
+[node name="Events" type="Node" parent="."]
+
+[node name="Players" type="Node" parent="."]
